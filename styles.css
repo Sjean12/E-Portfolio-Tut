@@ -78,10 +78,6 @@ i:hover-effect:after {
   background-color: #ffff;
 }
 
-.link__hover-effect--black:after {
-  background-color: #0000;
-}
-
 .link__hover-effect:hover:after {
   width: 100%;
   left: 0;
